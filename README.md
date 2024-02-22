@@ -1,1 +1,2 @@
-# BOLT-2.0-
+# BOLT-2.0 Hackathon
+# 
